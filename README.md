@@ -6,7 +6,7 @@ Requirements:-
 Python 3.8 And additional requirements are in requirements.txt and will be installed through the below steps.
 
 Run:-
-Download and install python 3.8 and git Download go to https://github.com/Rambabu124/Banking-Chat-bot-Django/commits?author=tarun163
+Download and install python 3.8 and git Download go to https://github.com/Rambabu124/Banking-Chat-bot-Django
 
 Install the requirements:- $ pip install -r requirements.txt
 
